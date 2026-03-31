@@ -1,0 +1,11 @@
+#cover {
+    width: 100px;
+    float: right;
+}
+
+#logo {
+    height: 100px;
+}
+.clearfix {
+    clear: both;
+}
